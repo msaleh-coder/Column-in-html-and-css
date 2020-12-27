@@ -1,0 +1,49 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.maindiv{
+	width: 100%;
+	height: auto;
+}
+.same_child img{
+	height: auto;
+	width: 395px;
+}
+.same_child{
+	width: 395px;
+	height: auto;
+	float: left;
+	margin: 50px 0px 20px 20px;
+	border: 2px solid #dcd;
+	padding: 5px;
+	box-shadow:7px 9px 8px 12px #EAB;
+	text-align: justify;
+	text-shadow: 0px -2px black;
+	background-color: #846284;
+}
+.same_child a{
+	background-color: red;
+	padding: 5px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	color: white;
+}
+.same_child a:hover{
+	background-color: black;
+	color: pink;
+	font-weight: bold;
+}
+.same_child h2{
+	color: #ccc;
+	padding: 5px;
+}
+.same_child p{
+	color: #cdcdcd;
+	padding: 5px;
+}
+.same_child:hover h2{
+	color: #fff;l
+	
+}
